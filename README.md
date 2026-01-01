@@ -15,7 +15,7 @@ The system is designed to:
 
 ## Architecture Diagram
 
-![Architecture Diagram](documents/architecture.png)
+![Architecture Diagram](architecture.png)
 
 ---
 
