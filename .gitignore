@@ -1,0 +1,16 @@
+# Terraform directories and state files
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Variable files containing secrets
+terraform.tfvars
+
+# SSH keys
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# Logs
+*.log
